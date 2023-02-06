@@ -1,0 +1,24 @@
+#flex{
+  display:flex;
+  justify-content: center;
+}
+#logo{
+  font-size:1.5rem;
+  text-align :center;
+  font-weight: 400;
+  transform :rotate(-90deg);
+}
+
+#siren{
+  font-weight: bold;
+  font-size:2.5rem;
+  text-align :center;
+}
+
+#hr{
+  width:1000px;
+  color:#e7d9d9;
+  opacity: 100%;
+  border:1px solid;
+  margin:1.2em auto;
+}
